@@ -1,0 +1,77 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Muhammad Bilal
+ID:      169047247
+Email:   bila7247@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess the number between 1 and 100: 50
+Too high. Try again.
+Guess the number between 1 and 100: 35
+Too high. Try again.
+Guess the number between 1 and 100: 20
+Too high. Try again.
+Guess the number between 1 and 100: 10
+Too low. Try again.
+Guess the number between 1 and 100: 15
+Congratulations! You guessed the number in 5 attempts.
+5
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+4
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+30
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter cost of breakfast for the day: 7.95
+Enter cost of lunch for the day: 15.32
+Enter cost of supper for the day: 42.56
+Do you want to enter data for another day? (y for yes/n for no): y
+Enter cost of breakfast for the day: 5.55
+Enter cost of lunch for the day: 12.39
+Enter cost of supper for the day: 36.23
+Do you want to enter data for another day? (y for yes/n for no): n
+(13.5, 27.71, 78.78999999999999, 120.0)
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter employee ID number (enter 0 to end): 123
+Enter hourly wage rate: 45
+Enter number of hours worked during the week: 46
+Enter employee ID number (enter 0 to end): 123
+Enter hourly wage rate: 30
+Enter number of hours worked during the week: 46
+Enter employee ID number (enter 0 to end): 0
+(3541.78125, 1770.890625)
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+
+-------------------------------------------------------
+

@@ -1,0 +1,55 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Muhammad Bilal
+ID:      169047247
+Email:   bila7247@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age?60
+What is your favourite band?The Beatles
+I am 60 years old and The Beatles is my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+What is length in miles35
+Length in km is  56.35
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter cost of one dosa?1.95
+Enter number of dosa?3
+Total cost of 3 dosas: $ 5.85
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the principle amount5000
+Enter rate of interest5
+Number of years10
+How many times is interest compounded in a year12
+Balance: $ 8235.0474884514
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
